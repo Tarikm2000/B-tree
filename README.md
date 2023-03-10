@@ -1,5 +1,6 @@
 
 
+
 ## LIVRABLE 1 :
 
 - Pour ce livrable, nous avons implémenté un structure de donneé qui s'appelle b-tree, donc a a défini deux classes pour l'instant ,une classe Node qui définit un noeud et qui a pour caractéristiques (attributs)  les clès du noeud , son parants, ses fils, le fait qu'il est une feuille (pour l'instant, au moment de la construction d'un noeud on le considére que c'est une feuille ).
